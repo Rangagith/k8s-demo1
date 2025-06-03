@@ -1,4 +1,4 @@
-name: Docker CI forked
+name: Docker CI fork
 on:
   push:
     branches:
